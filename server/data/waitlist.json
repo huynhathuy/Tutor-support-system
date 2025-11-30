@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wl_7eae1672",
+    "studentId": "student1",
+    "studentName": "Nguyen Van A",
+    "studentEmail": "nguyenvana@hcmut.edu.vn",
+    "classId": "cls_001",
+    "className": "Advanced Mathematics",
+    "tutorId": "tut_001",
+    "tutorName": "Dr. Nguyen Van Minh",
+    "preferredSlots": [],
+    "reason": "Looking for available slot",
+    "status": "waiting",
+    "createdAt": "2025-11-30T04:02:06.296Z",
+    "notifiedAt": null
+  },
+  {
+    "id": "wl_23e8c62f",
+    "studentId": "student1",
+    "studentName": "Nguyen Van A",
+    "studentEmail": "nguyenvana@hcmut.edu.vn",
+    "classId": "cls_004",
+    "className": "Physics for Engineers",
+    "tutorId": "tut_002",
+    "tutorName": "Prof. Tran Thi Lan",
+    "preferredSlots": [],
+    "reason": "Looking for available slot for rescheduling",
+    "status": "waiting",
+    "createdAt": "2025-11-30T04:04:21.689Z",
+    "notifiedAt": null
+  }
+]

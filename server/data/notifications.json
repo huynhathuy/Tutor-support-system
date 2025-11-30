@@ -1,0 +1,472 @@
+[
+  {
+    "id": "ntf_001",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Tran Thi B requested to join Advanced Mathematics",
+    "read": false,
+    "actionUrl": "/bookings/bkg_004",
+    "createdAt": "2025-11-28T14:00:00Z"
+  },
+  {
+    "id": "ntf_002",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Tran Thi B requested to join Linear Algebra",
+    "read": false,
+    "actionUrl": "/bookings/bkg_005",
+    "createdAt": "2025-11-28T16:00:00Z"
+  },
+  {
+    "id": "ntf_003",
+    "userId": "student1",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for Advanced Mathematics has been confirmed",
+    "read": true,
+    "actionUrl": "/enrollments/enr_001",
+    "createdAt": "2025-11-25T14:00:00Z"
+  },
+  {
+    "id": "ntf_004",
+    "userId": "student1",
+    "type": "session_reminder",
+    "title": "Upcoming Session",
+    "message": "Your Advanced Mathematics session starts in 1 hour",
+    "read": true,
+    "actionUrl": "/classes/cls_001",
+    "createdAt": "2025-11-29T08:00:00Z"
+  },
+  {
+    "id": "ntf_005",
+    "userId": "ctsv1",
+    "type": "risk_alert",
+    "title": "High Risk Student Detected",
+    "message": "5 students flagged as at-risk in latest detection",
+    "read": true,
+    "actionUrl": "/risk-assessment",
+    "createdAt": "2025-11-29T08:30:00Z"
+  },
+  {
+    "id": "ntf_8775e146",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Advanced Mathematics",
+    "read": false,
+    "actionUrl": "/bookings/bkg_006",
+    "createdAt": "2025-11-29T09:44:59.861Z"
+  },
+  {
+    "id": "ntf_d151e9ea",
+    "userId": "student2",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for Advanced Mathematics has been confirmed",
+    "read": false,
+    "actionUrl": "/enrollments/enr_004",
+    "createdAt": "2025-11-29T09:46:32.627Z"
+  },
+  {
+    "id": "ntf_88cbd9d4",
+    "userId": "student1",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for Advanced Mathematics has been confirmed",
+    "read": true,
+    "actionUrl": "/enrollments/enr_005",
+    "createdAt": "2025-11-29T09:46:36.957Z"
+  },
+  {
+    "id": "ntf_85e482db",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Physics for Engineers",
+    "read": false,
+    "actionUrl": "/bookings/bkg_007",
+    "createdAt": "2025-11-29T10:16:14.659Z"
+  },
+  {
+    "id": "ntf_c4c4e443",
+    "userId": "tut_003",
+    "type": "enrollment_cancelled",
+    "title": "Student Dropped Class",
+    "message": "Nguyen Van A has dropped Data Structures. Reason: financial - Financial reasons",
+    "read": false,
+    "actionUrl": "/classes/cls_005",
+    "createdAt": "2025-11-29T10:19:55.102Z"
+  },
+  {
+    "id": "ntf_3d872cf4",
+    "userId": "tut_001",
+    "type": "enrollment_cancelled",
+    "title": "Student Dropped Class",
+    "message": "Nguyen Van A has dropped Advanced Mathematics. Reason: change_time - Need different time slot",
+    "read": false,
+    "actionUrl": "/classes/cls_001",
+    "createdAt": "2025-11-29T10:20:00.526Z"
+  },
+  {
+    "id": "ntf_c75fb684",
+    "userId": "tut_002",
+    "type": "enrollment_cancelled",
+    "title": "Student Dropped Class",
+    "message": "Nguyen Van A has dropped Physics for Engineers. Reason: change_time - Need different time slot",
+    "read": false,
+    "actionUrl": "/classes/cls_004",
+    "createdAt": "2025-11-29T10:20:27.406Z"
+  },
+  {
+    "id": "ntf_f647e940",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Physics for Engineers",
+    "read": false,
+    "actionUrl": "/bookings/bkg_008",
+    "createdAt": "2025-11-29T10:20:54.854Z"
+  },
+  {
+    "id": "ntf_4319a8ca",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Advanced Mathematics",
+    "read": false,
+    "actionUrl": "/bookings/bkg_009",
+    "createdAt": "2025-11-29T10:30:42.779Z"
+  },
+  {
+    "id": "ntf_f9e70f49",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Physics for Engineers",
+    "read": false,
+    "actionUrl": "/bookings/bkg_010",
+    "createdAt": "2025-11-29T18:39:35.965Z"
+  },
+  {
+    "id": "ntf_20a38ecc",
+    "userId": "tut_001",
+    "type": "enrollment_cancelled",
+    "title": "Student Dropped Class",
+    "message": "Nguyen Van A has dropped Advanced Mathematics. Reason: schedule - Schedule conflict with other classes",
+    "read": false,
+    "actionUrl": "/classes/cls_001",
+    "createdAt": "2025-11-30T03:02:09.872Z"
+  },
+  {
+    "id": "ntf_abab99a3",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Advanced Mathematics",
+    "read": false,
+    "actionUrl": "/bookings/bkg_011",
+    "createdAt": "2025-11-30T03:02:37.474Z"
+  },
+  {
+    "id": "ntf_ec16e05b",
+    "userId": "student1",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for Advanced Mathematics has been confirmed",
+    "read": true,
+    "actionUrl": "/enrollments/enr_002",
+    "createdAt": "2025-11-30T03:03:05.741Z"
+  },
+  {
+    "id": "ntf_67e1f2f5",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Physics for Engineers",
+    "read": false,
+    "actionUrl": "/bookings/bkg_012",
+    "createdAt": "2025-11-30T03:05:24.923Z"
+  },
+  {
+    "id": "ntf_c7efeb17",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Advanced Mathematics",
+    "read": false,
+    "actionUrl": "/bookings/bkg_013",
+    "createdAt": "2025-11-30T03:06:47.966Z"
+  },
+  {
+    "id": "ntf_39ec9e8b",
+    "userId": "student1",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for Advanced Mathematics has been confirmed",
+    "read": true,
+    "actionUrl": "/enrollments/enr_003",
+    "createdAt": "2025-11-30T03:29:32.016Z"
+  },
+  {
+    "id": "ntf_1896620f",
+    "userId": "student2",
+    "type": "grade_updated",
+    "title": "Grade Updated",
+    "message": "Your grade for Advanced Mathematics has been updated: 75",
+    "read": false,
+    "actionUrl": "/enrollments/enr_004",
+    "createdAt": "2025-11-30T03:30:54.100Z"
+  },
+  {
+    "id": "ntf_97f95750",
+    "userId": "student1",
+    "type": "grade_updated",
+    "title": "Grade Updated",
+    "message": "Your grade for Advanced Mathematics has been updated: 100",
+    "read": true,
+    "actionUrl": "/enrollments/enr_002",
+    "createdAt": "2025-11-30T03:30:54.106Z"
+  },
+  {
+    "id": "ntf_cc1cf173",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Physics for Engineers",
+    "read": false,
+    "actionUrl": "/bookings/bkg_014",
+    "createdAt": "2025-11-30T03:42:09.697Z"
+  },
+  {
+    "id": "ntf_803c24d2",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Physics for Engineers",
+    "read": false,
+    "actionUrl": "/bookings/bkg_015",
+    "createdAt": "2025-11-30T03:43:22.640Z"
+  },
+  {
+    "id": "ntf_9760ed98",
+    "userId": "tutor2",
+    "type": "booking_rescheduled",
+    "title": "Booking Rescheduled",
+    "message": "Nguyen Van A rescheduled their session for Physics for Engineers from 2025-12-10 to 2025-12-05",
+    "read": false,
+    "actionUrl": "/bookings/bkg_008",
+    "createdAt": "2025-11-30T04:01:57.665Z"
+  },
+  {
+    "id": "ntf_1d150f6f",
+    "userId": "tutor2",
+    "type": "booking_rescheduled",
+    "title": "Booking Rescheduled",
+    "message": "Nguyen Van A rescheduled their session for Physics for Engineers from 2025-12-10 to 2025-12-02",
+    "read": false,
+    "actionUrl": "/bookings/bkg_010",
+    "createdAt": "2025-11-30T04:04:34.711Z"
+  },
+  {
+    "id": "ntf_ba49f6a3",
+    "userId": "tutor2",
+    "type": "booking_rescheduled",
+    "title": "Booking Rescheduled",
+    "message": "Nguyen Van A rescheduled their session for Physics for Engineers from 2025-12-02 to 2025-12-02",
+    "read": false,
+    "actionUrl": "/bookings/bkg_010",
+    "createdAt": "2025-11-30T04:04:45.402Z"
+  },
+  {
+    "id": "ntf_ee3f1293",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join sadsad - sadasd",
+    "read": false,
+    "actionUrl": "/bookings/bkg_016",
+    "createdAt": "2025-11-30T04:05:19.755Z"
+  },
+  {
+    "id": "ntf_04a1c30b",
+    "userId": "tutor1",
+    "type": "booking_rescheduled",
+    "title": "Booking Rescheduled",
+    "message": "Nguyen Van A rescheduled their session for sadsad - sadasd from 2025-12-16 to 2025-12-02",
+    "read": false,
+    "actionUrl": "/bookings/bkg_016",
+    "createdAt": "2025-11-30T04:05:41.115Z"
+  },
+  {
+    "id": "ntf_7568c45f",
+    "userId": "tutor1",
+    "type": "booking_rescheduled",
+    "title": "Booking Rescheduled",
+    "message": "Nguyen Van A rescheduled their session for sadsad - sadasd from 2025-12-02 to 2025-12-01",
+    "read": false,
+    "actionUrl": "/bookings/bkg_016",
+    "createdAt": "2025-11-30T04:05:52.892Z"
+  },
+  {
+    "id": "ntf_a4ac24eb",
+    "userId": "tut_001",
+    "type": "enrollment_cancelled",
+    "title": "Student Dropped Class",
+    "message": "Nguyen Van A has dropped Advanced Mathematics. Reason: financial - Financial reasons",
+    "read": false,
+    "actionUrl": "/classes/cls_001",
+    "createdAt": "2025-11-30T06:05:05.873Z"
+  },
+  {
+    "id": "ntf_3e428535",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Physics for Engineers",
+    "read": false,
+    "actionUrl": "/bookings/bkg_017",
+    "createdAt": "2025-11-30T06:05:16.839Z"
+  },
+  {
+    "id": "ntf_1044a9aa",
+    "userId": "tut_001",
+    "type": "enrollment_cancelled",
+    "title": "Student Dropped Class",
+    "message": "Nguyen Van A has dropped Advanced Mathematics. Reason: User requested cancellation",
+    "read": false,
+    "actionUrl": "/classes/cls_001",
+    "createdAt": "2025-11-30T06:11:46.485Z"
+  },
+  {
+    "id": "ntf_53d54a11",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join sadsad - sadasd",
+    "read": false,
+    "actionUrl": "/bookings/bkg_018",
+    "createdAt": "2025-11-30T06:12:39.412Z"
+  },
+  {
+    "id": "ntf_fafc0b69",
+    "userId": "student1",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for sadsad - sadasd has been confirmed",
+    "read": false,
+    "actionUrl": "/enrollments/enr_002",
+    "createdAt": "2025-11-30T06:15:16.596Z"
+  },
+  {
+    "id": "ntf_91e9ebec",
+    "userId": "tut_001",
+    "type": "enrollment_cancelled",
+    "title": "Student Dropped Class",
+    "message": "Nguyen Van A has dropped sadsad - sadasd. Reason: Student requested cancellation - Cancelled from class detail view",
+    "read": false,
+    "actionUrl": "/classes/cls_006",
+    "createdAt": "2025-11-30T06:16:58.731Z"
+  },
+  {
+    "id": "ntf_cc63daeb",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Linear Algebra",
+    "read": false,
+    "actionUrl": "/bookings/bkg_019",
+    "createdAt": "2025-11-30T06:18:22.718Z"
+  },
+  {
+    "id": "ntf_2e89d343",
+    "userId": "student1",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for Linear Algebra has been confirmed",
+    "read": false,
+    "actionUrl": "/enrollments/enr_002",
+    "createdAt": "2025-11-30T06:18:38.476Z"
+  },
+  {
+    "id": "ntf_670c0fe9",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join sadsad - sadasd",
+    "read": false,
+    "actionUrl": "/bookings/bkg_020",
+    "createdAt": "2025-11-30T07:16:43.230Z"
+  },
+  {
+    "id": "ntf_ec660c51",
+    "userId": "student1",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for sadsad - sadasd has been confirmed",
+    "read": false,
+    "actionUrl": "/enrollments/enr_003",
+    "createdAt": "2025-11-30T07:17:42.914Z"
+  },
+  {
+    "id": "ntf_a58190da",
+    "userId": "tutor1",
+    "type": "booking_request",
+    "title": "New Booking Request",
+    "message": "Nguyen Van A requested to join Linear Algebra",
+    "read": false,
+    "actionUrl": "/bookings/bkg_021",
+    "createdAt": "2025-11-30T07:18:46.566Z"
+  },
+  {
+    "id": "ntf_6a5a44b1",
+    "userId": "student1",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed",
+    "message": "Your booking for Linear Algebra has been confirmed",
+    "read": false,
+    "actionUrl": "/enrollments/enr_004",
+    "createdAt": "2025-11-30T07:19:06.426Z"
+  },
+  {
+    "id": "ntf_87813287",
+    "userId": "student1",
+    "type": "grade_updated",
+    "title": "Grade Updated",
+    "message": "Your grade for Linear Algebra has been updated: 100",
+    "read": false,
+    "actionUrl": "/enrollments/enr_002",
+    "createdAt": "2025-11-30T07:20:03.454Z"
+  },
+  {
+    "id": "ntf_3c1149b6",
+    "userId": "student1",
+    "type": "grade_updated",
+    "title": "Grade Updated",
+    "message": "Your grade for Linear Algebra has been updated: 100",
+    "read": false,
+    "actionUrl": "/enrollments/enr_002",
+    "createdAt": "2025-11-30T07:20:13.459Z"
+  },
+  {
+    "id": "ntf_1bc22f0e",
+    "userId": "student2",
+    "type": "grade_updated",
+    "title": "Grade Updated",
+    "message": "Your grade for Advanced Mathematics has been updated: 80",
+    "read": false,
+    "actionUrl": "/enrollments/enr_004",
+    "createdAt": "2025-11-30T07:20:13.465Z"
+  },
+  {
+    "id": "ntf_a2407fe0",
+    "userId": "student1",
+    "type": "grade_updated",
+    "title": "Grade Updated",
+    "message": "Your grade for sadsad - sadasd has been updated: 50",
+    "read": false,
+    "actionUrl": "/enrollments/enr_003",
+    "createdAt": "2025-11-30T07:20:29.137Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "enr_004",
+    "studentId": "student2",
+    "classId": "cls_001",
+    "className": "Advanced Mathematics",
+    "subject": "Mathematics",
+    "tutorId": "tut_001",
+    "tutorName": "Dr. Nguyen Van Minh",
+    "tutorEmail": "nguyenvanminh@hcmut.edu.vn",
+    "schedule": "Mon, Wed, Fri - 9:00 AM",
+    "nextSession": "2025-12-01T09:00:00Z",
+    "totalSessions": 12,
+    "completedSessions": 0,
+    "grade": 80,
+    "feedback": "Decent",
+    "enrolledAt": "2025-11-29T09:46:32.619Z",
+    "materials": [
+      {
+        "id": "mat_001",
+        "name": "Lecture 1 - Introduction to Calculus.pdf",
+        "type": "PDF",
+        "size": "2.4 MB",
+        "uploadedAt": "2025-11-20T10:00:00Z"
+      },
+      {
+        "id": "mat_002",
+        "name": "Practice Problems Set 1.pdf",
+        "type": "PDF",
+        "size": "1.8 MB",
+        "uploadedAt": "2025-11-22T10:00:00Z"
+      }
+    ],
+    "updatedAt": "2025-11-30T07:20:13.464Z"
+  },
+  {
+    "id": "enr_002",
+    "studentId": "student1",
+    "classId": "cls_003",
+    "className": "Linear Algebra",
+    "subject": "Mathematics",
+    "tutorId": "tut_001",
+    "tutorName": "Dr. Nguyen Van Minh",
+    "tutorEmail": "nguyenvanminh@hcmut.edu.vn",
+    "schedule": "Mon, Wed - 3:00 PM",
+    "nextSession": "2025-12-01T15:00:00Z",
+    "totalSessions": 12,
+    "completedSessions": 0,
+    "grade": 100,
+    "feedback": "Excellent",
+    "enrolledAt": "2025-11-30T06:18:38.474Z",
+    "materials": [],
+    "updatedAt": "2025-11-30T07:20:13.458Z"
+  },
+  {
+    "id": "enr_003",
+    "studentId": "student1",
+    "classId": "cls_006",
+    "className": "sadsad - sadasd",
+    "subject": "sadasd",
+    "tutorId": "tut_001",
+    "tutorName": "Dr. Le Van C",
+    "tutorEmail": "levanc@hcmut.edu.vn",
+    "schedule": "Thu-14:00",
+    "nextSession": "2025-11-30T03:29:22.375Z",
+    "totalSessions": 12,
+    "completedSessions": 0,
+    "grade": 50,
+    "feedback": "Need improvements",
+    "enrolledAt": "2025-11-30T07:17:42.909Z",
+    "materials": [],
+    "updatedAt": "2025-11-30T07:20:29.135Z"
+  },
+  {
+    "id": "enr_004",
+    "studentId": "student1",
+    "classId": "cls_003",
+    "className": "Linear Algebra",
+    "subject": "Mathematics",
+    "tutorId": "tut_001",
+    "tutorName": "Dr. Nguyen Van Minh",
+    "tutorEmail": "nguyenvanminh@hcmut.edu.vn",
+    "schedule": "Mon, Wed - 3:00 PM",
+    "nextSession": "2025-12-01T15:00:00Z",
+    "totalSessions": 12,
+    "completedSessions": 0,
+    "grade": null,
+    "feedback": null,
+    "enrolledAt": "2025-11-30T07:19:06.421Z",
+    "materials": []
+  }
+]

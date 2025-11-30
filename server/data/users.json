@@ -1,0 +1,61 @@
+[
+  {
+    "id": "student1",
+    "username": "student1",
+    "password": "pass123",
+    "role": "Student",
+    "name": "Nguyen Van A",
+    "email": "nguyenvana@hcmut.edu.vn",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=student1"
+  },
+  {
+    "id": "student2",
+    "username": "student2",
+    "password": "pass123",
+    "role": "Student",
+    "name": "Tran Thi B",
+    "email": "tranthib@hcmut.edu.vn",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=student2"
+  },
+  {
+    "id": "tutor1",
+    "username": "tutor1",
+    "password": "pass123",
+    "role": "Tutor",
+    "name": "Dr. Le Van C",
+    "email": "levanc@hcmut.edu.vn",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=tutor1",
+    "subject": "Mathematics",
+    "expertise": ["Calculus", "Linear Algebra", "Differential Equations"],
+    "hourlyRate": 300000,
+    "yearsOfExperience": 8,
+    "bio": "PhD in Applied Mathematics from HCMUT. Specialized in helping students excel in advanced mathematics courses.",
+    "rating": 4.9,
+    "reviewCount": 127
+  },
+  {
+    "id": "tutor2",
+    "username": "tutor2",
+    "password": "pass123",
+    "role": "Tutor",
+    "name": "Prof. Pham Thi D",
+    "email": "phamthid@hcmut.edu.vn",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=tutor2",
+    "subject": "Physics",
+    "expertise": ["Classical Mechanics", "Electromagnetism", "Quantum Physics"],
+    "hourlyRate": 350000,
+    "yearsOfExperience": 12,
+    "bio": "Professor of Physics at HCMUT with over a decade of teaching experience.",
+    "rating": 4.8,
+    "reviewCount": 98
+  },
+  {
+    "id": "ctsv1",
+    "username": "ctsv1",
+    "password": "pass123",
+    "role": "CTSV",
+    "name": "CTSV Staff",
+    "email": "ctsv@hcmut.edu.vn",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ctsv1"
+  }
+]
