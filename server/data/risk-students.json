@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ars_001",
+    "studentId": "2012345",
+    "name": "Nguyễn Văn An",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=An",
+    "riskScore": 85,
+    "attendance": 65,
+    "gradesAvg": 5.2,
+    "lastDetected": "2025-11-29T08:30:00Z",
+    "riskFactors": [
+      "Low attendance (65%)",
+      "Below average grades (5.2)",
+      "Missed 3 consecutive sessions"
+    ],
+    "courses": [
+      { "code": "CS101", "name": "Data Structures", "grade": 4.5, "attendance": 60 },
+      { "code": "MATH201", "name": "Calculus II", "grade": 5.0, "attendance": 70 },
+      { "code": "PHY102", "name": "Physics", "grade": 6.0, "attendance": 65 }
+    ],
+    "interventions": []
+  },
+  {
+    "id": "ars_002",
+    "studentId": "2012346",
+    "name": "Trần Thị Bình",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Binh",
+    "riskScore": 78,
+    "attendance": 72,
+    "gradesAvg": 5.8,
+    "lastDetected": "2025-11-29T08:30:00Z",
+    "riskFactors": [
+      "Declining grades trend",
+      "Low engagement in CS courses"
+    ],
+    "courses": [
+      { "code": "CS102", "name": "Algorithms", "grade": 5.5, "attendance": 75 },
+      { "code": "CS201", "name": "Database Systems", "grade": 6.0, "attendance": 70 }
+    ],
+    "interventions": []
+  },
+  {
+    "id": "ars_003",
+    "studentId": "2012347",
+    "name": "Lê Hoàng Cường",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Cuong",
+    "riskScore": 92,
+    "attendance": 58,
+    "gradesAvg": 4.8,
+    "lastDetected": "2025-11-29T08:30:00Z",
+    "riskFactors": [
+      "Critical attendance (58%)",
+      "Failing multiple courses",
+      "No tutor sessions attended"
+    ],
+    "courses": [
+      { "code": "CS101", "name": "Data Structures", "grade": 4.0, "attendance": 55 },
+      { "code": "MATH201", "name": "Calculus II", "grade": 4.5, "attendance": 60 },
+      { "code": "ENG101", "name": "English", "grade": 5.5, "attendance": 60 }
+    ],
+    "interventions": []
+  },
+  {
+    "id": "ars_004",
+    "studentId": "2012348",
+    "name": "Phạm Minh Đức",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Duc",
+    "riskScore": 68,
+    "attendance": 78,
+    "gradesAvg": 6.2,
+    "lastDetected": "2025-11-29T08:30:00Z",
+    "riskFactors": [
+      "Border-line grades",
+      "Inconsistent attendance pattern"
+    ],
+    "courses": [
+      { "code": "CS102", "name": "Algorithms", "grade": 6.0, "attendance": 80 },
+      { "code": "MATH202", "name": "Linear Algebra", "grade": 6.5, "attendance": 75 }
+    ],
+    "interventions": []
+  },
+  {
+    "id": "ars_005",
+    "studentId": "2012349",
+    "name": "Vũ Thu Hà",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ha",
+    "riskScore": 72,
+    "attendance": 68,
+    "gradesAvg": 5.5,
+    "lastDetected": "2025-11-29T08:30:00Z",
+    "riskFactors": [
+      "Low attendance in core courses",
+      "Grade decline in last 2 weeks"
+    ],
+    "courses": [
+      { "code": "CS101", "name": "Data Structures", "grade": 5.0, "attendance": 65 },
+      { "code": "CS201", "name": "Database Systems", "grade": 6.0, "attendance": 70 }
+    ],
+    "interventions": []
+  }
+]

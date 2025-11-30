@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cls_001",
+    "name": "Advanced Mathematics",
+    "subject": "Mathematics",
+    "tutorId": "tut_001",
+    "tutorName": "Dr. Nguyen Van Minh",
+    "tutorEmail": "nguyenvanminh@hcmut.edu.vn",
+    "description": "Advanced calculus and mathematical analysis for engineering students.",
+    "schedule": "Mon, Wed, Fri - 9:00 AM",
+    "maxStudents": 40,
+    "enrolledStudents": 39,
+    "pendingBookings": 3,
+    "location": "Room A1-301",
+    "status": "active",
+    "nextSession": "2025-12-01T09:00:00Z",
+    "totalSessions": 12,
+    "completedSessions": 8,
+    "materials": [
+      {
+        "id": "mat_001",
+        "name": "Lecture 1 - Introduction to Calculus.pdf",
+        "type": "PDF",
+        "size": "2.4 MB",
+        "uploadedAt": "2025-11-20T10:00:00Z"
+      },
+      {
+        "id": "mat_002",
+        "name": "Practice Problems Set 1.pdf",
+        "type": "PDF",
+        "size": "1.8 MB",
+        "uploadedAt": "2025-11-22T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "cls_002",
+    "name": "Calculus I",
+    "subject": "Mathematics",
+    "tutorId": "tut_001",
+    "tutorName": "Dr. Nguyen Van Minh",
+    "tutorEmail": "nguyenvanminh@hcmut.edu.vn",
+    "description": "Fundamental calculus concepts for first-year students.",
+    "schedule": "Tue, Thu - 2:00 PM",
+    "maxStudents": 40,
+    "enrolledStudents": 40,
+    "pendingBookings": 0,
+    "location": "Room B2-201",
+    "status": "active",
+    "nextSession": "2025-12-02T14:00:00Z",
+    "totalSessions": 15,
+    "completedSessions": 10,
+    "materials": []
+  },
+  {
+    "id": "cls_003",
+    "name": "Linear Algebra",
+    "subject": "Mathematics",
+    "tutorId": "tut_001",
+    "tutorName": "Dr. Nguyen Van Minh",
+    "tutorEmail": "nguyenvanminh@hcmut.edu.vn",
+    "description": "Matrix operations, vector spaces, and linear transformations.",
+    "schedule": "Mon, Wed - 3:00 PM",
+    "maxStudents": 35,
+    "enrolledStudents": 25,
+    "pendingBookings": 2,
+    "location": "Room A2-102",
+    "status": "active",
+    "nextSession": "2025-12-01T15:00:00Z",
+    "totalSessions": 12,
+    "completedSessions": 6,
+    "materials": []
+  },
+  {
+    "id": "cls_004",
+    "name": "Physics for Engineers",
+    "subject": "Physics",
+    "tutorId": "tut_002",
+    "tutorName": "Prof. Tran Thi Lan",
+    "tutorEmail": "tranthilan@hcmut.edu.vn",
+    "description": "Applied physics concepts for engineering applications.",
+    "schedule": "Tue, Thu - 10:00 AM",
+    "maxStudents": 40,
+    "enrolledStudents": 31,
+    "pendingBookings": 4,
+    "location": "Room C1-301",
+    "status": "active",
+    "nextSession": "2025-12-02T10:00:00Z",
+    "totalSessions": 10,
+    "completedSessions": 5,
+    "materials": [
+      {
+        "id": "mat_003",
+        "name": "Mechanics Chapter 1.pdf",
+        "type": "PDF",
+        "size": "3.1 MB",
+        "uploadedAt": "2025-11-15T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "cls_005",
+    "name": "Data Structures",
+    "subject": "Computer Science",
+    "tutorId": "tut_003",
+    "tutorName": "Dr. Le Hoang Phuc",
+    "tutorEmail": "lehoangphuc@hcmut.edu.vn",
+    "description": "Fundamental data structures including arrays, linked lists, trees, and graphs.",
+    "schedule": "Wed - 3:00 PM",
+    "maxStudents": 35,
+    "enrolledStudents": 27,
+    "pendingBookings": 0,
+    "location": "Room D1-201",
+    "status": "active",
+    "nextSession": "2025-12-03T15:00:00Z",
+    "totalSessions": 15,
+    "completedSessions": 10,
+    "materials": [
+      {
+        "id": "mat_004",
+        "name": "Binary Trees Tutorial.pdf",
+        "type": "PDF",
+        "size": "1.5 MB",
+        "uploadedAt": "2025-11-18T10:00:00Z"
+      }
+    ]
+  }
+]

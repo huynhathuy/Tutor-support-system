@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#0052CC" stroke="#003D99" stroke-width="2"/>
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#FFD700" stroke-width="1.5"/>
+  <text x="50" y="45" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFD700" text-anchor="middle">HCMUT</text>
+  <text x="50" y="62" font-family="Arial, sans-serif" font-size="8" fill="#FFFFFF" text-anchor="middle">BACH KHOA</text>
+  <polygon points="50,20 53,28 47,28" fill="#FFD700"/>
+</svg>
